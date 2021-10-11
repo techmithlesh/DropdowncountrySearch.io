@@ -1,0 +1,15 @@
+body{
+  display: grid;
+  background-color: plum;
+}
+.container{
+margin: auto;
+background-color: paleturquoise;
+border: 2px solid #fff;
+height: 70vh;
+}
+input{
+  display: block;
+  margin: 10px 0 10px 0;
+  justify-content: center;
+}
